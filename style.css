@@ -16,7 +16,7 @@
 .amazon-logo {
     height: 50px;
     width: 100px;
-    background-image: url("amazon_logo.png");
+    background-image: url("image/amazon_logo.png");
     background-size: cover;
 }
 
@@ -91,7 +91,7 @@ span {
 .flag {
     height: 16px;
     width: 24px;
-    background-image: url("flag.png");
+    background-image: url("image/flag.png");
     background-size: cover;
 }
 
@@ -201,7 +201,7 @@ span {
     height: 20vw;
     width: 100%;
     background-size: cover;
-    background-image: url("cover.png");
+    background-image: url("image/cover.png");
 }
 
 .shop {
@@ -242,84 +242,84 @@ span {
 .img1 {
     height: 320px;
     width: 240px;
-    background-image: url("img1.png");
+    background-image: url("image/img1.png");
     background-size: cover;
 }
 
 .img2 {
     height: 320px;
     width: 240px;
-    background-image: url("img2.png");
+    background-image: url("image/img2.png");
     background-size: cover;
 }
 
 .img3 {
     height: 320px;
     width: 240px;
-    background-image: url("img3.png");
+    background-image: url("image/img3.png");
     background-size: cover;
 }
 
 .img4 {
     height: 320px;
     width: 240px;
-    background-image: url("img4.jpg");
+    background-image: url("image/img4.jpg");
     background-size: cover;
 }
 
 .img5 {
     height: 320px;
     width: 240px;
-    background-image: url("img5.png");
+    background-image: url("image/img5.png");
     background-size: cover;
 }
 
 .img6 {
     height: 320px;
     width: 240px;
-    background-image: url("img6.png");
+    background-image: url("image/img6.png");
     background-size: cover;
 }
 
 .img7 {
     height: 320px;
     width: 240px;
-    background-image: url("img7.png");
+    background-image: url("image/img7.png");
     background-size: cover;
 }
 
 .img8 {
     height: 320px;
     width: 240px;
-    background-image: url("img8.png");
+    background-image: url("image/img8.png");
     background-size: cover;
 }
 
 .img9 {
     height: 320px;
     width: 240px;
-    background-image: url("img9.png");
+    background-image: url("image/img9.png");
     background-size: cover;
 }
 
 .img10 {
     height: 320px;
     width: 240px;
-    background-image: url("img10.png");
+    background-image: url("image/img10.png");
     background-size: cover;
 }
 
 .img11 {
     height: 320px;
     width: 240px;
-    background-image: url("img11.png");
+    background-image: url("image/img11.png");
     background-size: cover;
 }
 
 .img12 {
     height: 320px;
     width: 240px;
-    background-image: url("img12.png");
+    background-image: url("image/img12.png");
     background-size: cover;
 }
 
