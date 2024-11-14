@@ -375,7 +375,7 @@ li {
 .amazon-logo-bottom {
     height: 40px;
     width: 75px;
-    background-image: url("amazon_logo.png");
+    background-image: url("image/amazon_logo.png");
     background-size: cover;
 }
 
